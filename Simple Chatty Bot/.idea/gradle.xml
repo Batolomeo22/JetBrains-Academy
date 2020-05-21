@@ -11,6 +11,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/A simple calculator" />
             <option value="$PROJECT_DIR$/Problems/Arithmetic average" />
             <option value="$PROJECT_DIR$/Problems/Check a number is positive" />
             <option value="$PROJECT_DIR$/Problems/Check prefix ignoring the case" />
@@ -18,6 +19,7 @@
             <option value="$PROJECT_DIR$/Problems/Check the value" />
             <option value="$PROJECT_DIR$/Problems/Chocolate" />
             <option value="$PROJECT_DIR$/Problems/Collatz conjecture" />
+            <option value="$PROJECT_DIR$/Problems/Direction" />
             <option value="$PROJECT_DIR$/Problems/Division" />
             <option value="$PROJECT_DIR$/Problems/Even or odd" />
             <option value="$PROJECT_DIR$/Problems/Fizz Buzz" />
@@ -29,6 +31,7 @@
             <option value="$PROJECT_DIR$/Problems/Profit" />
             <option value="$PROJECT_DIR$/Problems/Raise to the power" />
             <option value="$PROJECT_DIR$/Problems/Replacing 'a' with 'b'" />
+            <option value="$PROJECT_DIR$/Problems/Shape" />
             <option value="$PROJECT_DIR$/Problems/The (un)-ordered sequence" />
             <option value="$PROJECT_DIR$/Problems/The sequence" />
             <option value="$PROJECT_DIR$/Problems/The sign of a number" />
